@@ -1,5 +1,13 @@
 ## Hi! I'm Josias 😎
 
+  - 👨🏽‍💻 Currently working as a full developer at Accenture
+  - 📈 Developing an iOS and Android app using React Native
+  - 🧐 Always learning and developing my skills
+  - 🥇 Passionate about sports
+  - 🦄 Enthusiast of the Startup ecosystem
+
+##
+
 <div align="center">
   <a href="https://github.com/JosiasBatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosiasBatista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,9 +24,3 @@
 </div>  
 
 ##
-  
-  - 👨🏽‍💻 Currently working as a full developer at Accenture
-  - 📈 Developing an iOS and Android app using React Native
-  - 🧐 Always learning and developing my skills
-  - 🥇 Passionate about sports
-  - 🦄 Enthusiast of the Startup ecosystem
