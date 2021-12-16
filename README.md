@@ -1,7 +1,7 @@
 ## Hi! I'm Josias 😎
 
   - 👨🏽‍💻 Currently working as a fullstack developer at Accenture
-  - 📈 Developing an iOS and Android app using React Native
+  - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
