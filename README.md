@@ -2,6 +2,7 @@
 
   - 👨🏽‍💻 Currently working as a fullstack pleno (mid-level) developer at Accenture
   - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
+      - https://github.com/JosiasBatista/adventurous-landing
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
