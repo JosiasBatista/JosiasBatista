@@ -6,9 +6,10 @@
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
-  - Random Projects:
+  - Other Projects:
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
+    - FrontEnd Leader at: https://github.com/O-Povo-Requer
 
 ##
 
