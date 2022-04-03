@@ -6,6 +6,9 @@
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
+  - Random Projects:
+    - Fighting-game with JavaScript:
+      - https://sword-challenge.netlify.app
 
 ##
 
