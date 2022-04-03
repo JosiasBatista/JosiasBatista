@@ -7,7 +7,7 @@
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
   - Random Projects:
-    - Fighting-game with JavaScript:
+    - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
 
 ##
