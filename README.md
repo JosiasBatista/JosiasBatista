@@ -7,6 +7,8 @@
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
+  - 🧾 Creating YouTube Tech content
+    - https://studio.youtube.com/channel/UCBF_9p8f91GwkjCwFmq1S-g
   - Other Projects:
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
