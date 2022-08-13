@@ -10,9 +10,9 @@
   - 🧾 Creating YouTube Tech content
     - https://studio.youtube.com/channel/UCBF_9p8f91GwkjCwFmq1S-g
   - Other Projects:
+    - Goind: Mobile Application for travelers being created with React Native
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
-    - FrontEnd Leader at: https://github.com/O-Povo-Requer
 
 ##
 
