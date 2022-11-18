@@ -3,6 +3,7 @@
   - 👨🏽‍💻 Currently working as a fullstack pleno (mid-level) developer at Accenture
   - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
       - https://github.com/JosiasBatista/adventurous-landing
+      - https://play.google.com/store/apps/details?id=com.adventurous.adventurousapp
   - 📱 Freelancer mobile developer
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
@@ -10,7 +11,7 @@
   - 🧾 Creating YouTube Tech content
     - https://studio.youtube.com/channel/UCBF_9p8f91GwkjCwFmq1S-g
   - Other Projects:
-    - Goind: Mobile Application for travelers being created with React Native
+    - Going: Mobile Application for travelers being created with React Native
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
 
