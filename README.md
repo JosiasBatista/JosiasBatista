@@ -12,6 +12,7 @@
     - https://studio.youtube.com/channel/UCBF_9p8f91GwkjCwFmq1S-g
   - Other Projects:
     - Going: Mobile Application for travelers being created with React Native
+      - https://play.google.com/store/apps/details?id=com.going.goingapp
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
 
