@@ -8,13 +8,14 @@
   - 🧐 Always learning and developing my skills
   - 🥇 Passionate about sports
   - 🦄 Enthusiast of the Startup ecosystem
-  - 🧾 Creating YouTube Tech content
-    - https://www.youtube.com/channel/UCBF_9p8f91GwkjCwFmq1S-g
+  - 🧾 Creating [YouTube Tech Content](https://www.youtube.com/@josiasabraao)
   - Other Projects:
     - Going: Mobile Application for travelers being created with React Native
       - https://play.google.com/store/apps/details?id=com.going.goingapp
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - https://sword-challenge.netlify.app
+    - Dev Blog: Blog to post about development content and things I'm studying and learning: https://github.com/JosiasBatista/dev-blog
+      - https://josias-devblog.vercel.app
 
 ##
 
