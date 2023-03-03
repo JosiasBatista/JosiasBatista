@@ -11,11 +11,13 @@
   - 🧾 Creating [YouTube Tech Content](https://www.youtube.com/@josiasabraao)
   - Other Projects:
     - Going: Mobile Application for travelers being created with React Native
-      - https://play.google.com/store/apps/details?id=com.going.goingapp
+      - [Travel and Tourism App](https://play.google.com/store/apps/details?id=com.going.goingapp)
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
-      - https://sword-challenge.netlify.app
+      - [JavaScript Fighting Game](https://sword-challenge.netlify.app)
     - Dev Blog: Blog to post about development content and things I'm studying and learning: https://github.com/JosiasBatista/dev-blog
-      - https://josias-devblog.vercel.app
+      - [Dev Blog](https://josias-devblog.vercel.app)
+    - Streaming Platforms controlled using Eye and Hand Detection with the best and newest Javascript functionalities and Machine Learning
+      - [Modeen Streaming Plataform](https://josiasbatista.github.io/semana-js-expert07/classes/class04)
 
 ##
 
