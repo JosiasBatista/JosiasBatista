@@ -17,7 +17,7 @@
     - Dev Blog: Blog to post about development content and things I'm studying and learning: https://github.com/JosiasBatista/dev-blog
       - [Dev Blog](https://josias-devblog.vercel.app)
     - Streaming Platforms controlled using Eye and Hand Detection with the best and newest Javascript functionalities and Machine Learning
-      - [Modeen Streaming Plataform](https://josiasbatista.github.io/semana-js-expert07/classes/class04)
+      - [Modern Streaming Plataform](https://josiasbatista.github.io/semana-js-expert07/classes/class04)
 
 ##
 
