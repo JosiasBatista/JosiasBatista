@@ -4,7 +4,7 @@
   - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
       - https://github.com/JosiasBatista/adventurous-landing
       - https://play.google.com/store/apps/details?id=com.adventurous.adventurousapp
-  - Easy Going: Mobile Application for travelers created with React Native and Expo
+  - ✈️ Easy Going: Mobile Application for travelers created with React Native and Expo
     - [Easy Going for Android](https://play.google.com/store/apps/details?id=com.going.goingapp)
     - [Easy Going for iOS](https://apps.apple.com/br/app/easy-going/id6449904743)
   - 📱 Freelancer mobile developer
