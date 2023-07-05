@@ -14,7 +14,9 @@
   - 🧾 Creating [YouTube Tech Content](https://www.youtube.com/@josiasabraao)
   - Other Projects:
     - Promptopia:  An open-source AI prompting tool for modern world to discover, create and share creative prompts
-      - [Promptopia](https://promptopia-application.vercel.app/) 
+      - [Promptopia](https://promptopia-application.vercel.app/)
+    - Flexibble: Project for creatives developers build a community where they can share their projects, grow and get hired.
+      - [Flexibble](https://github.com/JosiasBatista/flexibble)
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
       - [JavaScript Fighting Game](https://sword-challenge.netlify.app)
     - Dev Blog: Blog to post about development content and things I'm studying and learning: https://github.com/JosiasBatista/dev-blog
