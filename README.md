@@ -1,9 +1,6 @@
 ## Hi! I'm Josias 😎
 
   - 👨🏽‍💻 Currently working as a fullstack (mid-level) developer at Accenture
-  - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
-      - https://github.com/JosiasBatista/adventurous-landing
-      - https://play.google.com/store/apps/details?id=com.adventurous.adventurousapp
   - ✈️ Easy Going: Mobile Application for travelers created with React Native and Expo
     - [Easy Going for Android](https://play.google.com/store/apps/details?id=com.going.goingapp)
     - [Easy Going for iOS](https://apps.apple.com/br/app/easy-going/id6449904743)
@@ -15,6 +12,9 @@
   - Other Projects:
     - Promptopia:  An open-source AI prompting tool for modern world to discover, create and share creative prompts
       - [Promptopia](https://promptopia-application.vercel.app/)
+    - 📈 Developing an iOS and Android app using React Native (www.adventurousapp.com)
+      - https://github.com/JosiasBatista/adventurous-landing
+      - https://play.google.com/store/apps/details?id=com.adventurous.adventurousapp
     - Flexibble: Project for creatives developers build a community where they can share their projects, grow and get hired.
       - [Flexibble](https://github.com/JosiasBatista/flexibble)
     - Fighting-game with JavaScript: https://github.com/JosiasBatista/fighting-game
